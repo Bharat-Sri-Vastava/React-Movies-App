@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react(), tailwindcss(),],
   base: '/React-Movies-App/',
   server:{
-    open: true,
+    open: true
   }
   
 })
